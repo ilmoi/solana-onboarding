@@ -78,5 +78,5 @@ Enjoy 🦀⚓🚀
 
 - [Solana's official newsletter](https://solana.com/newsletter) drops about once/mo
 - Project serum does a [weekly medium newsletter](https://projectserum.medium.com/), which covers the entire space
-- [sol.wtf](https://sol.wtf/) is a little side project I built for fun. In tracks top twitter posts related to Solana
+- [sol.wtf](https://sol.wtf/) is a little side project I built for fun. It tracks top twitter posts related to Solana
 - Podcasts: [Solana's official pod](https://podcast.solana.com/), [FTX's official pod](https://podcasts.apple.com/us/podcast/the-ftx-podcast-builders-and-innovators-in/id1518314108), [Solana Cove](https://open.spotify.com/show/7MDXM7GXbsZr44iGP4rdgL), [The antidote](https://podcasts.apple.com/us/podcast/the-antidote-blockchain-decentralization-and-builders/id1548247837) (no new episodes, but good old ones)
