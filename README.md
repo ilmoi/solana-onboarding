@@ -71,4 +71,12 @@ Enjoy 🦀⚓🚀
         - etc
     - First thing to do is always Ctrl-F the discord with any keywords you might have from your error. In general, I'd say 50% of the time someone already had that problem and you'll get an instant answer.
     - If that fails, each protocol usually has some sort of `developer questions` channel. Be specific and to the point with your questions (no "hey this is my first post") and don't feel bad  for re-asking ("still looking for answer to this [reply to own previous question]. Anyone might know?). Worst case CC one of the admins who you see frequenting in the chat.
- 
+    
+# How to stay up to date
+
+*If crypto as a whole moves at light speed, Solana's ecosystem basically warps time.*
+
+- [Solana's official newsletter](https://solana.com/newsletter) drops about once/mo
+- Project serum does a [weekly medium newsletter](https://projectserum.medium.com/), which covers the entire space
+- [sol.wtf](https://sol.wtf/) is a little side project I built for fun. In tracks top twitter posts related to Solana
+- Podcasts: [Solana's official pod](https://podcast.solana.com/), [FTX's official pod](https://podcasts.apple.com/us/podcast/the-ftx-podcast-builders-and-innovators-in/id1518314108), [Solana Cove](https://open.spotify.com/show/7MDXM7GXbsZr44iGP4rdgL), [The antidote](https://podcasts.apple.com/us/podcast/the-antidote-blockchain-decentralization-and-builders/id1548247837) (no new episodes, but good old ones)
