@@ -50,7 +50,8 @@ Enjoy 🦀⚓🚀
 7. Now the twist. All of the above showcases "traditional" way of building programs on solana - but there's a simpler / faster way by using [the anchor framework](https://github.com/project-serum/anchor) ⚓
     1. Read [this twitter thread](https://twitter.com/armaniferrante/status/1411589629384355840) to understand why it's so powerful
     2. Follow [anchor's onboarding tutorial](https://project-serum.github.io/anchor/getting-started/introduction.html)
-    3. So should you build with anchor or the traditional way? It's up to you, but I would recommend going with anchor. You'll move faster, and have certain security stuff out of the box.
+    3. Learn to [debug custom errors with anchor](https://www.notion.so/Debugging-Custom-Anchor-Errors-b8540dd418c44a4e939ab17c56a3fd3b)
+    4. So should you build with anchor or the traditional way? It's up to you, but I would recommend going with anchor. You'll move faster, and have certain security stuff out of the box.
 8. Build stuff! Fun fun fun. Ideas:
     1. Build a simple blockchain wallet. Personally the first thing I built on Solana was a [tui wallet](https://github.com/ilmoi/degen-wallet) that could do both eth and sol transactions. Taught me a ton about key management and how the two chains compare.
     2. Take something you know on another chain and re-build it on Solana. I picked [fomo3d](https://github.com/ilmoi/solana_fomo3d), which those of you who were around for 2017 craze might remember.
