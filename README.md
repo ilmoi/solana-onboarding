@@ -1,3 +1,9 @@
+I've been shilling Solana for too long and I often get asked the same questions about why/where/how to start. 
+
+Below is my best attempt at summarizing quality resources for new devs. In theory, this action-list has everything you need to go from wannabe who never coded Rust to proper Solana hacker. 
+
+Enjoy 🦀⚓🚀
+
 # Why Solana
 
 *Not convinced you should bother? Start here.*
@@ -64,3 +70,4 @@
         - etc
     - First thing to do is always Ctrl-F the discord with any keywords you might have from your error. In general, I'd say 50% of the time someone already had that problem and you'll get an instant answer.
     - If that fails, each protocol usually has some sort of `developer questions` channel. Be specific and to the point with your questions (no "hey this is my first post") and don't feel bad  for re-asking ("still looking for answer to this [reply to own previous question]. Anyone might know?). Worst case CC one of the admins who you see frequenting in the chat.
+ 
