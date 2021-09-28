@@ -46,6 +46,7 @@ Enjoy 🦀⚓🚀
     2. Code a smart contract with [David Choi via video tutorials](https://www.youtube.com/watch?v=gA7hFdq2h9Q)
 5. Otherwise, if you're ready to progress, it's time to read some actual production program code.
     1. [This library](https://github.com/solana-labs/solana-program-library/) contains code for on-chain programs written by Solana core devs & broader community. It's a gold mine for learning. Pick something you already know (eg token-swap == basically uniswap) → read through it → try adding some features / messing with code. You will learn a lot about architecture and design trade-offs.
+    2. [Helpful visual diagrams](https://github.com/ilmoi/solana-serum-program-viz) for some of the programs in there
 7. Now the twist. All of the above showcases "traditional" way of building programs on solana - but there's a simpler / faster way by using [the anchor framework](https://github.com/project-serum/anchor)
     1. Read [this twitter thread](https://twitter.com/armaniferrante/status/1411589629384355840) to understand why it's so powerful
     2. Follow [anchor's onboarding tutorial](https://project-serum.github.io/anchor/getting-started/introduction.html)
